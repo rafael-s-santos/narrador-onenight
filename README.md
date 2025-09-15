@@ -18,7 +18,7 @@
   </p>
 
   <!--
-  <img src="https://i.imgur.com/screenshot.png" alt="Screenshot da aplicação Narrador OneNight" width="90%" style="border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.4); margin-top: 40px; margin-bottom: 40px;">
+  <img src="-.png" alt="Screenshot da aplicação Narrador OneNight" width="90%" style="border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.4); margin-top: 40px; margin-bottom: 40px;">
   -->
 
   <hr style="width: 70%; border: none; border-top: 3px dashed #556B8D; margin: 50px auto;">
@@ -49,7 +49,7 @@
   </table>
 
   <br><br> <h2 style="font-size: 2em; color: #D4AF37; margin-bottom: 25px; text-align: center;">
-    🚀 Tecnologias no Coração deste Projeto
+    🚀 Tecnologias Utilizadas neste Projeto
   </h2>
   <p align="center" style="margin-bottom: 50px;">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"> &nbsp;
