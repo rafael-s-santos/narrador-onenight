@@ -85,7 +85,8 @@ npm run dev
     </p>
     <p>
         <a href="[https://github.com/rafael-s-santos](https://github.com/rafael-s-santos)" target="_blank">
-        <img src="[https://img.shields.io/badge/GitHub-1a2a3a?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-1a2a3a?style=for-the-badge&logo=github&logoColor=white)" alt="GitHub Profile">
+        <a href="https://github.com/rafael-s-santos">
+          <img src="https://img.shields.io/badge/GitHub-1a2a3a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
         </a>
     &nbsp;&nbsp;
     </p>
